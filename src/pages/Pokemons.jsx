@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import './Pokemons.css'
 
 const API_URL = 'https://pokeapi.co/api/v2/pokemon?limit=20'
 
